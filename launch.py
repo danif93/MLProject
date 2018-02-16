@@ -7,7 +7,7 @@
 import mnist_loader as load
 import neural_network as neuronet
 import activation_functions as af
-import optimization_functions as of
+import optimisation_functions as of
 import cost_functions as cf
 import learningStep_generators as lg
 
