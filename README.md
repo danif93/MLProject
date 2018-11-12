@@ -1,4 +1,4 @@
-# MLProject
+# ML 17-18 Final Project (https://unige.it/en/off.f/2018/ins/27871.html)
 Neural network for handwritten digits recognition; inspiration provided by http://neuralnetworksanddeeplearning.com/index.html
 
 
